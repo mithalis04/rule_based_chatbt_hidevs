@@ -5,6 +5,7 @@ def get_response(user_input):
         r'hi|hello|hey': "Hello! How can I help you?",
         r'how are you': "I'm a bot, but I'm functioning well!",
         r'what is your name': "I am ChatBot 1.0",
+        r'tell me a joke': "Why did the developer go broke? Because he used up all his cache.",
         r'bye': "Goodbye! Have a nice day!"
     }
 
